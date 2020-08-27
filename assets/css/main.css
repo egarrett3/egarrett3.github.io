@@ -111,6 +111,10 @@ input, select, textarea {
 
 /* Type */
 
+    .icon-size {
+		font-size: 1rem;
+	}
+    
 	html {
 		font-size: 16pt;
 	}
