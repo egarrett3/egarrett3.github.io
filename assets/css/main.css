@@ -113,6 +113,7 @@ input, select, textarea {
 
     .icon-size {
 		font-size: 5rem;
+		padding-right: 10px;
 	}
     
 	html {
