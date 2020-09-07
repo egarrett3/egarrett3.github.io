@@ -110,6 +110,10 @@ input, select, textarea {
 		}
 
 /* Type */
+    ul#social-media-list li {
+		display: inline;
+		list-style-type: none;
+	}
 
     .icon-size {
 		font-size: 5rem;
