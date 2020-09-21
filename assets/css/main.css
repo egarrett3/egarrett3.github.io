@@ -118,7 +118,7 @@ input, select, textarea {
 	.project-header {
 		display:flex;
 		flex-direction: row;
-		justify-content: space-evenly;
+		justify-content: space-between;
 	}
 
     ul#social-media-list li {
