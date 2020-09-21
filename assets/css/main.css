@@ -110,6 +110,11 @@ input, select, textarea {
 		}
 
 /* Type */
+	#personal {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
     ul#social-media-list li {
 		display: inline;
 		list-style-type: none;
