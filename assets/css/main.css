@@ -127,6 +127,7 @@ input, select, textarea {
 	}
 
     .ic-size {
+		display:inline-block;
 		font-size: 5rem;
 		padding-right: 40px;
 		padding-bottom: 40px;
