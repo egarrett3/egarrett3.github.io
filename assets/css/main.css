@@ -115,6 +115,12 @@ input, select, textarea {
 		justify-content: space-evenly;
 	}
 
+	.project-header {
+		display:flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+	}
+
     ul#social-media-list li {
 		display: inline;
 		list-style-type: none;
