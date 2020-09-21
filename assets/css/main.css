@@ -112,7 +112,7 @@ input, select, textarea {
 /* Type */
 	#personal {
 		display: flex;
-		justify-content: space-evenly;
+		justify-content: flex-end;
 	}
 
 	.project-header {
@@ -122,8 +122,9 @@ input, select, textarea {
 	}
 
     ul#social-media-list li {
-		display: inline;
+		display: inline-block;
 		list-style-type: none;
+		padding-left: 30px;
 	}
 
     .ic-size {
