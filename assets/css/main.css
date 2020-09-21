@@ -126,9 +126,10 @@ input, select, textarea {
 		list-style-type: none;
 	}
 
-    .icon-size {
+    .ic-size {
 		font-size: 5rem;
 		padding-right: 40px;
+		padding-bottom: 40px;
 	}
     
 	html {
